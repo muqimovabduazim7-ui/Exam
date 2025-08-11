@@ -1,0 +1,32 @@
+.vass{
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+.more{
+    background-color: rgb(197, 197, 197);
+}
+.click{
+    background-color: greenyellow;
+    color: white;
+}
+.table {
+    border-collapse: collapse;
+    width: 100%;height: 150px;
+    margin: 0 auto;}
+.both{
+    border: 0.25px solid black;
+    text-align: left
+    }
+    .bordik{
+border-radius: 15px;
+    }
+    .backend{
+        background-color: rgb(150, 147, 147);
+        color: black;
+    }
+    .black{
+        background-color: rgb(31, 31, 31);
+        color: white;
+        text-align: center;
+    }
